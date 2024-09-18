@@ -35,8 +35,8 @@
 * 신고 내역 페이지
 
 ## 🙋 담당 영역
-* 참여자 - 주문방 참여하기 기능
-* 참여자 - 주문하기 기능
+* 참여자 - 주문방 참여하기
+* 참여자 - 주문하기
 * 송금 금액 계산
 * 주문 현황 페이지
 * 신고하기
@@ -46,10 +46,10 @@
 https://github.com/ejshin004/deliveryN/assets/55674729/02f6d583-5839-40f2-81ce-3edd4b5d3760
 
 ### ▶️ 채팅
-https://github.com/ejshin004/deliveryN/assets/55674729/a2a9f5d0-3256-4401-a8e1-6b7ddf8efac0
+https://github.com/user-attachments/assets/97f74dbe-6adc-4842-9eb8-31521a802f33
 
 ### ▶️신고하기
-https://github.com/ejshin004/deliveryN/assets/55674729/0ef67a9f-1de7-4b0f-8db1-2dbc3805b757
+https://github.com/user-attachments/assets/22280434-60d7-439e-ad33-7b418cd2660a
 
 ### ▶️ 관리자 페이지
-https://github.com/ejshin004/deliveryN/assets/55674729/3cf5baf0-88f0-4896-af68-b892e0d4d22f
+https://github.com/user-attachments/assets/9735dd57-d6e6-4bdb-8366-267ad72be1b1
