@@ -43,13 +43,13 @@
 * push 알림
 
 ## ▶️ 시연 영상
-https://github.com/user-attachments/assets/126aba23-2a14-416c-bed4-ffa9670adb20
+https://github.com/user-attachments/assets/cff2b129-e85e-4d2f-b4c6-239bffd4da00
 
 ### ▶️ 채팅
-https://github.com/user-attachments/assets/f11ed393-0a1c-4210-b7c5-219df52b205c
+https://github.com/user-attachments/assets/216bc6d7-253b-4d54-9c02-40f7bbb87871
 
 ### ▶️신고하기
-https://github.com/user-attachments/assets/666752eb-a267-44d6-90cb-ad607806ecdc
+https://github.com/user-attachments/assets/201278ac-1a1a-4cfc-b0ad-7fde4c698c07
 
 ### ▶️ 관리자 페이지
-https://github.com/user-attachments/assets/38e08ecf-74f9-44d2-915b-69a1df6ed833
+https://github.com/user-attachments/assets/7cee3f47-2110-4fbd-b493-3fb4926f790b
